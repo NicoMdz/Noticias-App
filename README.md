@@ -10,3 +10,4 @@ Plataforma de enseñanza: Udemy <br>
 Curso: React - La Guía Completa: Hooks Context Redux MERN +15 Apps
 
 
+NOTA: La API usada en este deploy es gratuita, por lo que solo permite acceso a la información en un ambiente de desarrollo, no de producción
