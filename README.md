@@ -1,8 +1,12 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+--- Proyecto Noticias App ---
 
-Currently, two official plugins are available:
+Proyecto con interfaz muy sencilla enfocado en el aprendizaje de Context API, llamadas a una API con Axios, generar y emplear API keys, paginación, trabajar con Material UI (MUI)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+Créditos: Juan Pablo de la Torre Vázquez <br>
+Plataforma de enseñanza: Udemy <br>
+Curso: React - La Guía Completa: Hooks Context Redux MERN +15 Apps
+
+
